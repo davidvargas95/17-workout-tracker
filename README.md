@@ -3,11 +3,16 @@
 
   ## Links
 
-  Deployed Application:
+  [Deployed Application](https://thawing-gorge-33747.herokuapp.com/?id=605d514a14f8a70015f14249)<br>
+  [GitHub Repo](https://github.com/davidvargas95/17-workout-tracker)
+
   --
 
   ## Description
   This app provides users with the functionality to add new and modify existing workouts. It is mobile responsive so it can be taken with you on the go to the gym or track. It uses MongoDB to store user input and a charting tool to provide an easy to understand dashboard.
+  <br>
+  <img src="./public/images/Capture.png" style="width: 500px;"><br>
+  <img src="./public/images/Capture2.png" style="width: 500px;">
 
   --
   ## Installation
